@@ -2,9 +2,8 @@
 const typewriterElement = document.querySelector('.typewriter');
 const textsToType = [
     'Django Developer & ML Enthusiast',
-    'AI & Data Science Student',
-    'Python Developer & Problem Solver',
-    'AI&DS Student'
+    'Artificial Intelligence & Data Science Student',
+
 ];
 let textIndex = 0;
 let charIndex = 0;
